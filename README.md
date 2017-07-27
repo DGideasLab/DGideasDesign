@@ -1,2 +1,2 @@
 # DGideasDesign
-DGideas Design, free to use!
+Free to use.
